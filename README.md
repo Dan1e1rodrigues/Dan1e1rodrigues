@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dan1e1rodrigues
-- 👀 I’m interested in  aprender cada vez mais novas linguagens 
-- 🌱 I’m currently learning Java, html, css e python
+- 👋 Hi, I’m Daniel Rodrigues
+- 👀 I’m interested in learn more and more new languages and enter the job market
+- 🌱 I’m currently learning JavaScript, HTML5, CSS3, Python, Git(GitHub Desktop) e GitHub.
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
