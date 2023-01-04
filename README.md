@@ -38,9 +38,10 @@
 <br>
 </div>
 
-<center>
-<img width= 60% src="https://gifimage.net/wp-content/uploads/2017/10/midoriya-gif.gif">
-</center>
+<div align="center">
+<br>  
+<p align="center"><img width=70% align="center" src="https://gifimage.net/wp-content/uploads/2017/10/midoriya-gif.gif" /></p> 
+<br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
-
