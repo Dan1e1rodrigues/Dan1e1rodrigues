@@ -42,7 +42,7 @@
 
 <div align="center">
 <br>  
-<p align="center"><img width=70% align="center" src="[https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif](https://1.bp.blogspot.com/--RlC5PlWYa8/X5iIstI19RI/AAAAAAABSG4/oQwydqtTj3EwzwUmTcEtC5T4zlDj_aYlgCLcBGAsYHQ/s768/QUE%2BLINDO%2BCARA%2BQUE%2BMUNDO%2BMARAVILHOSO.gif)" /></p> 
+<p align="center"><img width=70% align="center" src="https://1.bp.blogspot.com/--RlC5PlWYa8/X5iIstI19RI/AAAAAAABSG4/oQwydqtTj3EwzwUmTcEtC5T4zlDj_aYlgCLcBGAsYHQ/s768/QUE%2BLINDO%2BCARA%2BQUE%2BMUNDO%2BMARAVILHOSO.gif" /></p> 
 <br>
 </div>
 
