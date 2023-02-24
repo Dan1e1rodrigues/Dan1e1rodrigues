@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Rodrigues+de+Aguiar+;Eu+tenho+19+anos+de+idade+;+Brasil,+São+Paulo;+Graduação+em+Sistemas+para+internet+;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -46,4 +46,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=footer"/>
