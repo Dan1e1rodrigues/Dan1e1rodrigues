@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Rodrigues+de+Aguiar;Tenho+21+anos+de+idade;Sou+de+São+Paulo,+Brasil;Graduando+em+Sistemas+para+Internet;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel;Tenho+22+anos+de+idade;Sou+de+São+Paulo,+Brasil;Formado+em+Sistemas+para+Internet;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ---
 
@@ -48,7 +48,7 @@
   <a href="mailto:rodriguesdeaguiardaniel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/daniel-rodrigues-de-aguiar-estudante-de-ti/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-rodrigues-de-aguiar/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
@@ -57,7 +57,7 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="60%"/>
+  
   <br><br>
 </div>
 
